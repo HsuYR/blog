@@ -85,24 +85,6 @@ PIP<sub>2</sub> 的作用方式是藉由 G protein 活化 Phospholipase C（PLC�
  * 血管擴張藥物如 nitroglycerin 及 sodium nitroprusside 也會生成 NO，分別能夠治療 cardiac ischemia 及 hypertension
  * 另外一些血管擴張藥物如 sildenafil（威而鋼）則是抑制 phosphodiesterase 分解 cGMP 來產生血管擴張效果，治療 erectile dysfunction 及 pulmonary hypertension
 
-## Pharmadex - 本次上課出現藥物
+## [Pharmadex - 本次上課出現藥物][pharmadex]
 
-| 化合物 | 功能 | 備註 |
-|-|-|-|
-| Methotrexate | cancer treatment | Receptor: Dihydrofolate reductase (DHFR) |
-| Digitalis Glycosides | congestive heart failure treatment | Receptor: Na<sup>+</sup>/K<sup>+</sup> ATPase |
-| Colchicine | anti-inflammatory | Receptor: tubulin |
-| Buprenorphine | pain killer | Receptor: &mu;-opioid receptor |
-| Phenoxybenzamine | Hypertension treatment | Receptor: vascular &alpha;
-| Protamine | neutralize heparin anticoagulent effect | Chemical Antagonist against Heparin
-| Glucocorticoid | increase blood suger | Physiologic Antagonist against insulin
-| Trastuzumab, Cetuximab | cancer treatment | Receptor: Receptor Tyrosine Kinase extracellular domain
-| Gefitinib, Erlotinib | cancer treatment | Receptor: Receptor Tyrosine Kinase intracellular kinase activity
-| Verapamil | antiarrhythmic, hypertension treatment | Receptor: Voltage-gated Calcium Channel
-| Vasopressin | increase water reabsorption in kidney | Receptor: GPCR-cAMP
-| Milrinone | acute heart failure treatment | Receptor: inhibit type 3 phosphodiesterase
-| Lithium ion | Bipolar disorder | Receptor: inhibit phosphoinositide metabolism
-| Atrial nitriuretic peptide | vasodilation | Receptor: guanylyl cyclase
-| Nitroglycerin | cardiac ischemia | Receptor: produce NO to activate guanylyl cyclase
-| Sodium nitroprusside | hypertension | Receptor: produce NO to activate guanylyl cyclase
-| Sildenafil | erectile dysfunction and pulmonary hypertensio | Receptor: phosphodiesterase of cGMP
+[pharmadex]: https://docs.google.com/spreadsheets/d/1mbW0hBdKxISzp5UyLBj2xPIBs0ggIS4XdJK73pn9d5g/edit?usp=sharing
