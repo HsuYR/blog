@@ -46,7 +46,7 @@ J/A = -D &times; &Delta;C / &Delta;x
 
 ### Lipid raft
 
-相較於流體鑲嵌模型，Lipid raft 指特定脂質聚集在一起，像一只竹筏一樣。每個 Lipid raft 都會有特定的蛋白質或酵素組合。這種位置相近的特性會促進這些蛋白質或酵素之間的反應。
+相較於流體鑲嵌模型，Lipid raft 指特定脂質聚集在一起，像一只竹筏一樣。每個 Lipid raft 都會有互相有關聯的蛋白質或酵素。這種位置相近的特性會促進這些蛋白質或酵素之間的反應。
 
 ### 細胞死亡
 
@@ -66,6 +66,6 @@ Gap Junction 由兩個細胞各提供一個 connexon 組成，而每個 connexon
 
 ### Cellular Signaling and Membrane protein
 
-細胞外來訊號可由 extracellular matrix 傳到 peripheral protein 並藉由 integral protein 傳訊到細胞內 peripheral protein 最後影響 cytoskeleton。而依照外部作用對象分成 cell-cell adhesion 與 cell-matrix adhesion 兩種。cell-cell 之間藉由 cell adhesion molecule（CAM）相接，cell-matrix 則透過 adhesion receptor 接收訊號。其中 CAM 依對象不同又分 Homophilic 與 Heterophilic 兩種。Homophilic 的例子如 Cadherin、IgG superfamily of CAM（如N-CAM），Heterophilic 的例子如 Integrin（如 &alpha;v&beta;3）在軟骨組織中常與 fibrobectin 結合、Selectin 和細胞外 glycoprotein 上的糖基交互作用作為辨識用途。其中 Heterophilic 的例子如免疫反應時白血球特有的 glycoprotein 與血管內皮細胞膜上的 selectin 結合後會將白血球拉近內皮細胞，讓白血球的 integrin 與內皮細胞的 ICAM 結合，最後使白血球順利穿過血管壁，這個過程稱謂 Extravasation。
+細胞外來訊號可由 extracellular matrix 傳到 peripheral protein 並藉由 integral protein 傳訊到細胞內 peripheral protein 最後影響 cytoskeleton。而依照外部作用對象分成 cell-cell adhesion 與 cell-matrix adhesion 兩種。cell-cell 之間藉由 cell adhesion molecule（CAM）相接，cell-matrix 則透過 adhesion receptor 接收訊號。其中 CAM 依對象不同又分 Homophilic 與 Heterophilic 兩種。Homophilic 的例子如 Cadherin、IgG superfamily of CAM（如N-CAM），Heterophilic 的例子如 Integrin（如 &alpha;v&beta;3）在軟骨組織中常與 fibrobectin 結合、Selectin 和細胞外 glycoprotein 上的糖基交互作用作為辨識用途。其中 Heterophilic 的例子如免疫反應時白血球特有的 glycoprotein 與血管內皮細胞膜上的 selectin 結合後會將白血球拉近內皮細胞，讓白血球的 integrin 與內皮細胞的 ICAM 結合，最後使白血球順利穿過血管壁，這個過程稱謂 Extravasation。<a name='extravasation'></a>
 
 Peripheral Protein 除了傳遞訊息外也具有維持結構功能。例如 Erythrocyte 有許多 spectrin 與 ankyrin 構成網狀結構，其中一側會藉由穿膜蛋白（glycophorin、Band 3 protein）連結細胞膜，另一側藉由 actin、tropomyosin 連接到細胞對側面，而利用兩面互相拉近形成雙凹圓盤狀。當 Band 3 protein 基因多點突變時會造成蛋白質無法固定在細胞膜上，細胞因而成卵圓狀，難以通過微血管，稱為 Southeast Asian Ovalocytosis（SAO）。這種病變因紅血球變形使瘧原蟲不易寄生，類似鐮刀型貧血症。
