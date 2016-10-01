@@ -57,8 +57,7 @@ Pharmacokinetics 在研究藥物濃度時要考量兩項人體主要參數：Cle
 
 ## Bioavailability
 
- * Bioavailability 是指經由不同途徑（如口服或注射）到達循環系統的藥物量與給藥量的比率
- * Systemic Bioavailability，表示為 F，可以由 F = f &times; (1 - ER) 計算
+Bioavailability 是指經由不同途徑（如口服或注射）到達循環系統的藥物量與給藥量的比率
 
 ### Extent of Absorption
 
@@ -72,6 +71,8 @@ Pharmacokinetics 在研究藥物濃度時要考量兩項人體主要參數：Cle
  * 在經腸道吸收後，藥物會先由肝門系統到達肝臟。肝臟可以將藥物分解或是分泌到膽汁中而降低 Bioavailability。
  * 肝臟所造成的影響可以表示為 extraction ratio
  * ER = CL<sub>liver</sub> / Q，其中 Q 是單位時間流經肝臟的血量，一般 70kg 的人是 90L/h
+
+綜合上面兩種可能損失藥物 availability 的參數，得到 Systemic Bioavailability，表示為 F，可以由 F = f &times; (1 - ER) 計算
 
 ### Rate of Absorption
 
