@@ -22,7 +22,7 @@ Tetanospasmin 是一種 A-B toxin。一開始是單一條 peptide，但在釋出
 
 Heavy chain 會和 Motor Neuron 細胞膜上的 specific sialic acid receptor 及 glycoprotein 結合而被內吞成 vesicle 然後經 axon 送到在脊髓的 neuron soma。接著 vesicle 會在與 inhibitory neuron 間的 synapse 釋出，然後再被 motor neuron 上游的 inhibitory neuron 的 nerve terminal 以類似方式 endocytosis。在 inhibitory nerve terminal 中，vesicle 酸化使得 heavy chain、light chain 分離。接著 Heavy chain 接到 vesicle 膜上，light chain 也被送到細胞質裡。
 
-Light chain 是一種 zinc endopeptidase，會破壞負責調控輸送與釋出 neurotransmitter 的蛋白質，使得 inhibitory neurotransmitter（glycine、GABA）無法釋出。
+Light chain 是一種 zinc endopeptidase，會破壞負責調控輸送與釋出裝有 neurotransmitter vesicle 膜上的蛋白質，使得 inhibitory neurotransmitter（glycine、GABA）無法釋出。
 
 因為缺少 inhibitory neurotransmitter 而使 motor neuron 過度活化導致痙攣 spastic paralysis。這種中毒是一種 irreversible 的過程，從疾病康復需要神經細胞自己生成新的 axon terminal。
 
