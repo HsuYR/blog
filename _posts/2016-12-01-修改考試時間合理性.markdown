@@ -2,7 +2,7 @@
 layout: post
 title: "修改考試時間的分析"
 date: 2016-12-01 09:31:59 +0800
-categories: issue-analysis
+categories: analysis
 ---
 > 這樣突然改考時間會不會造成讓原本已經排定行程同學或是監考老師的困擾呢？
 
