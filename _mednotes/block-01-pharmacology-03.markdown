@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "Block 1 藥理學 3"
-date: 2016-10-01 22:40:32 +0800
-categories: medicine pharmacology
-published: no
 ---
 ## 學習目標
 

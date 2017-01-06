@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "Block 1 藥理學 4 自主神經概論"
-date: 2016-10-03
-categories: medicine pharmacology
-published: no
 ---
 ## 學習目標
 

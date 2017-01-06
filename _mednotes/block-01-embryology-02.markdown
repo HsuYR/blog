@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "Block 1 胚胎學 2"
-date: 2016-10-12 21:41:33 +0800
-categories: medicine embryology
-published: no
 ---
 ## 學習目標
 

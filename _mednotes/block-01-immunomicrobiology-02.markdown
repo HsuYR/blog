@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "Block 1 微免學 2"
-date: 2016-09-19 08:10:00 +0800
-categories: medicine immunomicrobiology
-published: no
 ---
 ## 學習目標
 

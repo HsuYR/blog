@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "Block 1 TBL 1 課前預讀筆記"
-date: 2016-10-04 19:07:01 +0800
-categories: medicine
-published: no
 ---
 ## Key concepts
 

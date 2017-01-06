@@ -1,9 +1,5 @@
 ---
-layout: post
 title: "Block 1 藥理學 1"
-date: 2016-09-20 21:39:35 +0800
-categories: medicine pharmacology
-published: no
 ---
 **藥理學 1** 和 **藥理學 2** 分別在介紹 Pharmacodynamics 以及 Pharmacokinetics 兩個概念。其中 Pharmacodynamics 研究藥物作用如何影響生物體，而 Pharmacokinetics 則是研究生物體如何影響藥物作用。
 
