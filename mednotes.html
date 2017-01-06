@@ -9,7 +9,7 @@ permalink: /mednotes/
   <h1 class="page-heading">Medical School Notes</h1>
 
   <ul class="post-list">
-    {% assign notes = site.mednotes | sort: 'id' | reverse %}
+    {% assign notes = site.mednotes | sort: 'date' | reverse %}
     {% for note in notes %}
       <li>
         <h2>
