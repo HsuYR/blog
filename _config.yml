@@ -16,3 +16,14 @@ github_username:  HsuYR
 
 # Build settings
 markdown: kramdown
+
+collections:
+  mednotes:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: mednotes
+    values:
+      layout: post

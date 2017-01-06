@@ -1,0 +1,22 @@
+---
+layout: default
+title: MedNotes
+permalink: /mednotes/
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Medical School Notes</h1>
+
+  <ul class="post-list">
+    {% assign notes = site.mednotes | sort: 'title' | reverse %}
+    {% for note in notes %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ note.url | prepend: site.baseurl }}">{{ note.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
