@@ -12,8 +12,23 @@ $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
-$east-asian-quote-font-family: "BiauKai", DFKai-SB, serif;
-$quote-font-family: Garamond, "Times New Roman", serif;
+/* Quote Defualt */
+@font-face {
+  font-family: Quote;             /* Custom font-family name */
+  src: local("BiauKai"),          /* macOS preferred */
+       local("DFKai-SB");         /* Windows preferred */
+  /* no unicode range, dafault to all characters */
+}
+
+/* Latin characters */
+@font-face {
+  font-family: Quote;              /* 同樣的 font-family */
+  unicode-range: U+00-024F;        /* Latin, Latin1 Sup., Ext-A, Ext-B */
+  src: local(Garamond),            /* OS X preferred */
+       local("Times New Roman");   /* Other OS */
+}
+
+$quote-font-family: Quote, serif;
 
 $spacing-unit:     30px;
 
