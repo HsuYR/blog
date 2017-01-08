@@ -116,6 +116,11 @@ blockquote {
     font-size: 18px;
     letter-spacing: -1px;
     font-style: italic;
+    font-family: $quote-font-family;
+    :lang(zh-Hant) {
+      font-family: $east-asian-quote-font-family;
+      font-style: normal;
+    }
 
     > :last-child {
         margin-bottom: 0;
